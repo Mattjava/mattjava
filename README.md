@@ -8,13 +8,13 @@ my skills and learn new technology.
 
 # Projects & Contributions
 
-[MedVoyage](https://github.com/Kpeguero16/MedVoyage) - An innovative website with the intent of diagnosing patients, helping doctors, and saving lives. 
-[Genre Mixer](https://github.com/Mattjava/Genre-Mixer) - An application to help music listeners explore new genres and potentially find their favorite songs
-[Project Manager](https://github.com/Mattjava/Project-Manager) - A web application to help people create projects, track the due dates of tasks, and increase their productivity.
+[MedVoyage](https://github.com/Kpeguero16/MedVoyage) - An innovative website with the intent of diagnosing patients, helping doctors, and saving lives.\
+[Genre Mixer](https://github.com/Mattjava/Genre-Mixer) - An application to help music listeners explore new genres and potentially find their favorite songs\
+[Project Manager](https://github.com/Mattjava/Project-Manager) - A web application to help people create projects, track the due dates of tasks, and increase their productivity.\
 
 # Skills
 
-Languages: Java, Python, JavaScript, HTML, CSS, SQL, C
+Languages: Java, Python, JavaScript, HTML, CSS, SQL, C\
 Frameworks & Technologies: Flask, Django, BeautifulSoup, Selenium, NodeJS, PostgreSQL, Werkzeug
 
 # Social Links
