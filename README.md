@@ -1,6 +1,6 @@
 # Hi, I'm Matthew Fortes!
 
-## CS Student at FIU | SWE Intern at Body Good Studio
+## CS Student at FIU | SWE Intern at FEAM Aero
 
 I am a aspiring developer with an interest in back-end engineering and cloud computing. I am to make changes that impact my community around me, and coding
 allows me to achieve it. I have worked on multiple projects and have collaborated with various teams to reach impactful goals. Currently I am aiming to expand
